@@ -11,15 +11,6 @@ version: 1.0.0
 1. HTML
 1. CSS
 
-## Full Tutorial
-
-[On Youtube](https://youtu.be/JLnsWkQ-iB8)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
-
-
 This is a simple Chat application implemented using PHP and MySQL. It allows users to send and receive real-time messages in a chat room, and view their chat history.
 
 ## Features
@@ -77,5 +68,5 @@ We would like to acknowledge the following resources that were used in the devel
 
 ## Author
 
-This project was developed by [Elias Abdurrahman](https://github.com/codingWithElias)
+This project was developed by [Roy Cuadra](https://github.com/roycua)
 
