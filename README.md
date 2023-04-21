@@ -1,17 +1,5 @@
-# Chat Application using PHP with MySQL & Ajax
+# Chat App
 
-version: 1.0.0
-
-## TECHNOLOGIES
-
-1. PHP
-1. MYSQL
-1. JQUERY
-1. BOOTSTRAP 5
-1. HTML
-1. CSS
-
-This is a simple Chat application implemented using PHP and MySQL. It allows users to send and receive real-time messages in a chat room, and view their chat history.
 
 ## Features
 
@@ -54,7 +42,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Support
 
-If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/yourusername/chat-app/issues) in the repository, and we will be happy to assist you.
+If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/roycua/chat-app/issues) in the repository, and we will be happy to assist you.
 
 ## Acknowledgements
 
